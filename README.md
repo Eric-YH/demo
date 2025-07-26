@@ -1,4 +1,4 @@
-# welcome to PowerBI demo
+# Welcome to PowerBI Demo
 
 Budget Monitoring Dashboard
 [Demo 1](https://app.powerbi.com/view?r=eyJrIjoiYzliNmQ1MjYtMmRkZC00MTNlLWE4ODgtNDllYzliN2RmZTgwIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)
