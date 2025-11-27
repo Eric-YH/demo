@@ -6,7 +6,7 @@ Click each link or image to view the interactive version.
 ---
 
 ## 1️⃣ Budget Monitoring Dashboard  
-![Budget Dashboard Preview](images/budget.png)  
+![Budget Dashboard Preview](image/budget.png)  
 🔗 **[View Demo](https://app.powerbi.com/view?r=eyJrIjoiYzliNmQ1MjYtMmRkZC00MTNlLWE4ODgtNDllYzliN2RmZTgwIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)**
 
 **Highlights**
@@ -17,7 +17,7 @@ Click each link or image to view the interactive version.
 ---
 
 ## 2️⃣ Parking Lot Monitoring Dashboard  
-![Parking Dashboard Preview](images/parking.png)  
+![Parking Dashboard Preview](image/parking.png)  
 🔗 **[View Demo](https://app.powerbi.com/view?r=eyJrIjoiNDFhMzUzYjEtMTM2NC00Zjk4LTkxZTAtZTU5ODgwYjZlOTY5IiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)**
 
 **Highlights**
@@ -28,7 +28,7 @@ Click each link or image to view the interactive version.
 ---
 
 ## 3️⃣ Student Performance Dashboard  
-![Student Dashboard Preview](images/student.png)  
+![Student Dashboard Preview](image/student.png)  
 🔗 **[View Demo](https://app.powerbi.com/view?r=eyJrIjoiMzUwNTBkYTctYTMzYi00ZWU5LWFlYmYtMjQ2ZTA5NzlkYzcyIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)**
 
 **Highlights**
