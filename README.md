@@ -46,3 +46,7 @@ Click each link or image to view the interactive version.
 - Data Visualization & Dashboard Design
 - Data Cleaning & Transformation
 - Dashboard UI/UX & Interactive Features
+
+
+## Python Portfolio
+[Demo Repo](https://github.com/Eric-YH/Regression-)
