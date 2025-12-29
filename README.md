@@ -48,5 +48,7 @@ Click each link or image to view the interactive version.
 - Dashboard UI/UX & Interactive Features
 
 
+## PowerBI Portfolio
+### 📌 [View Demo](https://app.powerbi.com/view?r=eyJrIjoiNzY3MWIwYzMtNjc2My00NGIzLWFhNzAtODEwYjFhY2Y5NGFlIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)
 ## Python Portfolio
 [Demo Repo](https://github.com/Eric-YH/Regression-)
