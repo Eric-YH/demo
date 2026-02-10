@@ -52,5 +52,7 @@ Click each link or image to view the interactive version.
 ### 📌 [View Demo](https://app.powerbi.com/view?r=eyJrIjoiNzY3MWIwYzMtNjc2My00NGIzLWFhNzAtODEwYjFhY2Y5NGFlIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)
 ## Python Portfolio
 [NER](https://github.com/Eric-YH/School-Name-Matching)
+
 [Regression](https://github.com/Eric-YH/Regression-)
+
 [Sentiment Analysis](https://github.com/Eric-YH/Environmental-Scan)
