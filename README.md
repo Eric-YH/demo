@@ -1,7 +1,6 @@
 # 📊 Power BI Dashboard Portfolio
 
-This repository showcases several Power BI dashboards that I designed and published online.  
-Click each link or image to view the interactive version.
+This repository showcases several Power BI dashboards. Click each link or image to view the interactive version.
 
 ---
 
