@@ -4,7 +4,7 @@ This repository showcases several Power BI dashboards. Click each link or image 
 
 ---
 
-## 1️⃣ Budget Monitoring Dashboard  
+##  Budget Monitoring Dashboard  
 <img src="image/budget.png" alt="Budget Dashboard Preview" width="300"/>
 
 ### 📌 **[View Demo](https://app.powerbi.com/view?r=eyJrIjoiYzliNmQ1MjYtMmRkZC00MTNlLWE4ODgtNDllYzliN2RmZTgwIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)**
@@ -16,7 +16,7 @@ This repository showcases several Power BI dashboards. Click each link or image 
 
 ---
 
-## 2️⃣ Parking Lot Monitoring Dashboard  
+##  Parking Lot Monitoring Dashboard  
 <img src="image/parking.png" alt="Parking Dashboard Preview" width="300"/>
 
 ### 📌 **[View Demo](https://app.powerbi.com/view?r=eyJrIjoiNDFhMzUzYjEtMTM2NC00Zjk4LTkxZTAtZTU5ODgwYjZlOTY5IiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)**
@@ -28,7 +28,19 @@ This repository showcases several Power BI dashboards. Click each link or image 
 
 ---
 
-## 3️⃣ Student Performance Dashboard  
+##  Newborn Hearing Screening Practices Report Dashboard  
+<img src="image/student.png" alt="Student Dashboard Preview" width="300"/>
+
+### 📌 **[View Demo](https://app.powerbi.com/view?r=eyJrIjoiYmRlZGIwOWYtYzQzZi00ZGY0LTk4MjQtMGJhNDE3MzM0YzBiIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D&pageName=1aa05b2011070bee9bb0)**
+
+**Highlights**
+- Seasonal performance comparison (Fall vs Winter) with class-level metrics
+- Drill-through to individual student details
+- Identification of trends, outliers, and performance gaps
+
+---
+
+##  Student Performance Dashboard  
 <img src="image/student.png" alt="Student Dashboard Preview" width="300"/>
 
 ### 📌 **[View Demo](https://app.powerbi.com/view?r=eyJrIjoiMzUwNTBkYTctYTMzYi00ZWU5LWFlYmYtMjQ2ZTA5NzlkYzcyIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)**
