@@ -29,14 +29,14 @@ This repository showcases several Power BI dashboards. Click each link or image 
 ---
 
 ##  Newborn Hearing Screening Practices Report Dashboard  
-<img src="image/student.png" alt="Student Dashboard Preview" width="300"/>
+<img src="image/newborn.png" alt="Student Dashboard Preview" width="300"/>
 
 ### 📌 **[View Demo](https://app.powerbi.com/view?r=eyJrIjoiYmRlZGIwOWYtYzQzZi00ZGY0LTk4MjQtMGJhNDE3MzM0YzBiIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D&pageName=1aa05b2011070bee9bb0)**
 
 **Highlights**
-- Seasonal performance comparison (Fall vs Winter) with class-level metrics
-- Drill-through to individual student details
-- Identification of trends, outliers, and performance gaps
+- Newborn and pediatric hearing screening practices with statewide map distribution
+- Service utilization by age group with regional variation (map view)
+- Insurance coverage distribution with geographic patterns (map view)
 
 ---
 
