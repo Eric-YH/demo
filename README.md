@@ -55,8 +55,8 @@ This repository showcases several Power BI dashboards. Click each link or image 
 ##  Enrollment Analysis Dashboard  
 <img src="image/Enrollment.png" alt="Student Dashboard Preview" width="300"/>
 
-### 📌 **[View Demo]([https://app.powerbi.com/view?r=eyJrIjoiMzUwNTBkYTctYTMzYi00ZWU5LWFlYmYtMjQ2ZTA5NzlkYzcyIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D])**
-### 📌 **[View Demo]([https://app.powerbi.com/view?r=eyJrIjoiNWU1MDdkNDEtNzhiZS00MGNiLWEwNTEtYzI2YmVkZTczYzRmIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D])**
+### 📌 **[View Demo](https://app.powerbi.com/view?r=eyJrIjoiMzUwNTBkYTctYTMzYi00ZWU5LWFlYmYtMjQ2ZTA5NzlkYzcyIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)**
+### 📌 **[View Demo](https://app.powerbi.com/view?r=eyJrIjoiNWU1MDdkNDEtNzhiZS00MGNiLWEwNTEtYzI2YmVkZTczYzRmIiwidCI6IjI2Y2NmYmI0LTc4MTYtNGY0My1hMjM2LWI2ZmZmYjg0Y2ZjMSIsImMiOjEwfQ%3D%3D)**
 
 **Highlights**
 - Demographic and academic distributions by percentage  
