@@ -78,4 +78,6 @@ This repository showcases several Power BI dashboards. Click each link or image 
 
 [Regression](https://github.com/Eric-YH/Regression-)
 
+[Traffic Analysis](https://github.com/Eric-YH/traffic-analysis)
+
 [Sentiment Analysis](https://github.com/Eric-YH/Environmental-Scan)
